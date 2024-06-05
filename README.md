@@ -13,25 +13,26 @@ This repository contains Terraform configurations for provisioning Auto Scaling 
 1. **Clone the repository**
 
    -> git clone https://github.com/Messites/aws-autoscaling-sns-terraform.git
+   
    -> cd aws-autoscaling-sns-terraform
 
-2. **Initialize Terraform**
+3. **Initialize Terraform**
 
     -> terraform init
 
-3. **Review and modify variables**
+4. **Review and modify variables**
 
     -> terraform init
 
-4. **Plan the Deployment**
+5. **Plan the Deployment**
 
     -> terraform plan
 
-5. **Apply the Deployment**
+6. **Apply the Deployment**
 
     -> terraform apply
 
-6. **Clean up whenever necessary**
+7. **Clean up whenever necessary**
 
     -> terraform destroy
 
