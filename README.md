@@ -22,8 +22,6 @@ This repository contains Terraform configurations for provisioning Auto Scaling 
 
 4. **Review and modify variables**
 
-    -> terraform init
-
 5. **Plan the Deployment**
 
     -> terraform plan
